@@ -1,4 +1,8 @@
+########
 String.contains method inputs a char sequence,i.e., a string.
-
 eg: 
 if(!test.contains("" + str.charAt(i))){
+
+
+#######
+String indexOf and lastIndexOf methods...for finding uniqueness of character
