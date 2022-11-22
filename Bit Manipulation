@@ -39,3 +39,16 @@ class Solution {
         return (int) result;
     }
 }
+
+
+
+Bit Masking means to keep, change, or remove a desired part of information. · Bitmasking means imposing mask over bits
+You can find,set,clear, count num of bits required to convert a number to another.
+Use left and right shift operators.
+Use an operation like and / or with a sequence of numbers to get the desired result.
+
+~(x) inverts the bits.
+
+##
+
+n&(n-1)  -->  sets least significant bit to zero.
