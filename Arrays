@@ -3,3 +3,8 @@ int[] arr = arr1;
 then it is an instance of arr1. all the changes done to arr will reflect in arr1.
 
 Use Arrays.copyOf instead.
+
+
+Rotate an array by 90 degrees:
+
+  Take transpose -> swap row elements(if right rotate) swap column elements(if left rotate)
