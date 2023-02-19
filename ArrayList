@@ -1,0 +1,2 @@
+if you try to add the same list into another list multiple times, it adds a reference to the original list, not the copy of the list.
+So if you try to access any sublist using index, any changes in one will reflect in another.
